@@ -1,6 +1,6 @@
 name: kitkonsult
 favicon: null
-layout_spectrum: 0.48948
+layout_spectrum: 0.25047
 typography_spectrum: 0.9050179
 title: 'KIT Konsult - Aligning business & IT'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#6699C8'
     - '#667D8F'
     - '#D8E1E8'
-  brandStrength: 0.5125448
+  brandStrength: 0.75
   lightness: 0.4375
-  saturation: 0.8188675
+  saturation: 0.8125
   rhythmicContrast: 0.7462087
 purpose: []
