@@ -4,8 +4,15 @@
         <description><![CDATA[KIT Konsult - Aligning business & IT]]></description>
         <link>https://thegrid.ai/kitkonsult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 19:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 19:53:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kitkonsult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Smart simplicity]]></title>
+            <description><![CDATA[<article><h1>Smart simplicity</h1><p>If you’ve missed the great Yves Morieux giving his TED talk about fighting complicatedness and creating incentives for cooperation I strongly recommend you to invest 12 minutes of your time and watch the video. It’s really inspiring and mind-boggling.</p></article>]]></description>
+            <link>https://thegrid.ai/kitkonsult/smart-simplicity/index.html</link>
+            <guid isPermaLink="false">42c14199-3445-486d-b03b-d741b67f432b</guid>
+            <pubDate>Fri, 15 Jan 2016 19:47:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Agile Enterprise Architecture]]></title>
             <description><![CDATA[<article><h1>Agile Enterprise Architecture</h1><p>Is there a viable agile approach to enterprise architecture?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f035068e9f8e3447907aa4bd9951f9190d732ce.jpg"></article>]]></description>
