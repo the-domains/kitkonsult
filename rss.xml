@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KIT Konsult - Aligning business & IT]]></title>
         <description><![CDATA[KIT Konsult - Aligning business & IT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kitkonsult/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 19:07:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 19:43:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kitkonsult/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Agile Enterprise Architecture]]></title>
+            <description><![CDATA[<article><h1>Agile Enterprise Architecture</h1><p>Is there a viable agile approach to enterprise architecture?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f035068e9f8e3447907aa4bd9951f9190d732ce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kitkonsult/agile-enterprise-architecture/index.html</link>
+            <guid isPermaLink="false">886fb3a3-d885-4fd1-bd65-e79402319fad</guid>
+            <pubDate>Fri, 15 Jan 2016 19:39:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A true agile organization]]></title>
             <description><![CDATA[<article><h1>A true agile organization</h1><p>Since the rise of the agile movement within software development, I’ve really believed that I’ve been on the frontier of the worldwide agile transformation. You know… Think big, start small. Patience is a virtue. This is the beginning of something extraordinary.</p></article>]]></description>
-            <link>undefineda-true-agile-organization/index.html</link>
+            <link>https://thegrid.ai/kitkonsult/a-true-agile-organization/index.html</link>
             <guid isPermaLink="false">e565f00b-fc29-42fb-aaee-5f146a64dd03</guid>
             <pubDate>Fri, 15 Jan 2016 19:07:33 GMT</pubDate>
         </item>
