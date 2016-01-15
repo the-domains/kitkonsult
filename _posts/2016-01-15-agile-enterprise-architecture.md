@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Remember that your main objective as an enterprise architect is basically to enable a more effective decision-making within the entire organization.
-datePublished: '2016-01-15T19:39:39.311Z'
-dateModified: '2016-01-15T19:38:28.768Z'
+datePublished: '2016-01-15T21:17:26.507Z'
+dateModified: '2016-01-15T21:17:20.995Z'
 title: Agile Enterprise Architecture
 author: []
+sourcePath: _posts/2016-01-15-agile-enterprise-architecture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-agile-enterprise-architecture.md
-published: true
 url: agile-enterprise-architecture/index.html
 _type: Article
 
@@ -41,11 +41,16 @@ I think that applying the same set of core principles in enterprise architecture
 
 Here is my draft of principles in agile enterprise architecture:
 
-* Our **highest priority **is to satisfy the stakeholder through **early **and **continuous **delivery of **valuable knowledge**.
-* Welcome **changing conditions**. Agile processes harness change for the stakeholder's competitive advantage.
-* Deliver **understandable **findings **frequently**, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-* **Simplicity--the art of maximizing the amount of work ****not **done--is essential.
-* At regular intervals, the architects **reflects **on how to become **more effective**, then tunes and adjusts its behavior accordingly.
+* Our **highest priority** is to satisfy the stakeholder through **early** and **continuous** delivery of **valuable knowledge**.
+
+* Welcome **changing conditions**. Agile processes harness change for the stakeholder's **competitive advantage**.
+
+* Deliver **understandable** findings **frequently**, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+* **Simplicity**--the art of maximizing the amount of work not done--is essential.
+
+* At regular intervals, the architects **reflects** on how to become **more effective**, then tunes and adjusts its behavior accordingly.
+
 * Be **architectural evangelists**--the most efficient and effective method of conveying knowledge within an organization is face-to-face conversations.
 
 Remember that your main objective as an enterprise architect is basically to enable a more effective decision-making within the entire organization.
