@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Remember that your main objective as an enterprise architect is basically to enable a more effective decision-making within the entire organization.
-datePublished: '2016-01-15T21:17:27.045Z'
+datePublished: '2016-01-15T21:17:27.058Z'
 dateModified: '2016-01-15T21:17:26.813Z'
 title: Agile Enterprise Architecture
 author: []
