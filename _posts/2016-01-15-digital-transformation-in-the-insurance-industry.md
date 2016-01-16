@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digital transformation is basically about shifting power to the customer, facilitating a personalized customer experience and enabling distribution of products and services to anywhere, at anytime.'
-datePublished: '2016-01-15T20:03:24.107Z'
-dateModified: '2016-01-15T20:03:05.821Z'
+datePublished: '2016-01-16T11:32:21.129Z'
+dateModified: '2016-01-16T11:20:05.035Z'
 title: Digital transformation in the insurance industry
 author: []
+sourcePath: _posts/2016-01-15-digital-transformation-in-the-insurance-industry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-digital-transformation-in-the-insurance-industry.md
-published: true
 url: digital-transformation-in-the-insurance-industry/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 # Digital transformation in the insurance industry
 
 Digital transformation is basically about shifting power to the customer, facilitating a personalized customer experience and enabling distribution of products and services to anywhere, at anytime.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b8ea09b-9f14-43be-bbc0-a442409c13e9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b12be31570000c3ce14a5d21d8568ac950a9f040.jpg)
 
 Let me give you insurers out there some advice when it comes to transforming into a customer driven enterprise.
 
