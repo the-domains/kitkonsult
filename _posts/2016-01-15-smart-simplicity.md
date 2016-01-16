@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Smart simplicity is about shifting power from rules, policies and metrics to real people. Empowering people to take responsibility by removing much of the rules and increase reciprocity by removing any unnecessary buffers that make business units self sufficient.'
-datePublished: '2016-01-16T08:38:51.638Z'
-dateModified: '2016-01-16T08:38:02.969Z'
+datePublished: '2016-01-16T11:32:05.962Z'
+dateModified: '2016-01-16T11:20:29.388Z'
 title: Smart simplicity
 author: []
 sourcePath: _posts/2016-01-15-smart-simplicity.md
@@ -25,7 +25,7 @@ _type: Article
 # Smart simplicity
 
 If you've missed the great [Yves Morieux][0] giving his [TED talk][1] about fighting complicatedness and creating incentives for cooperation I strongly recommend you to invest 12 minutes of your time and watch the video. It's really inspiring and mind-boggling.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cefe330-5169-4c39-ab37-f17adf17666f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43c243e8b9e52d3d0f084b24d3e1052be93b6fb0.jpg)
 
 Smart simplicity is about shifting power from rules, policies and metrics to real people. Empowering people to take responsibility by removing much of the rules and increase reciprocity by removing any unnecessary buffers that make business units self sufficient. Without this dysfunctional self sufficiency, business units and thereby also people must start cooperate.
 
