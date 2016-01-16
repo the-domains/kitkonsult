@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The distinctive edge in organization design is not about labels on a chart but about the ways that executives are able to execute that design.
-datePublished: '2016-01-16T07:37:16.563Z'
-dateModified: '2016-01-16T07:37:06.539Z'
+datePublished: '2016-01-16T07:37:17.682Z'
+dateModified: '2016-01-16T07:37:16.563Z'
 title: A true agile organization
 author: []
 sourcePath: _posts/2016-01-15-a-true-agile-organization.md
