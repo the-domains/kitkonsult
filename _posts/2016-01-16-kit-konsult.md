@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T11:13:29.403Z'
+datePublished: '2016-01-16T11:13:29.433Z'
 dateModified: '2016-01-16T11:13:24.545Z'
 title: KIT Konsult
 author: []
