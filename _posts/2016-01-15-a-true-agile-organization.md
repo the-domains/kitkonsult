@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The distinctive edge in organization design is not about labels on a chart but about the ways that executives are able to execute that design.
-datePublished: '2016-01-15T20:08:47.308Z'
-dateModified: '2016-01-15T20:08:46.779Z'
+datePublished: '2016-01-16T07:37:16.507Z'
+dateModified: '2016-01-16T07:37:06.539Z'
 title: A true agile organization
 author: []
 sourcePath: _posts/2016-01-15-a-true-agile-organization.md
@@ -23,9 +23,9 @@ _type: Article
 
 ---
 # A true agile organization
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7a1871-d0ce-4533-8645-cb2517846f2a.jpg)
 
 Since the rise of the agile movement within software development, I've really believed that I've been on the frontier of the worldwide agile transformation. You know... Think big, start small. Patience is a virtue. This is the beginning of something extraordinary.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7a1871-d0ce-4533-8645-cb2517846f2a.jpg)
 
 However, there's always been some recurring issues regardless of which organization I've been operating within. As it seems, the actual outcome as a whole has always been far below my initial expectations.
 
