@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digital transformation is basically about shifting power to the customer, facilitating a personalized customer experience and enabling distribution of products and services to anywhere, at anytime.'
-datePublished: '2016-01-16T11:32:21.129Z'
+datePublished: '2016-01-16T11:32:21.196Z'
 dateModified: '2016-01-16T11:20:05.035Z'
 title: Digital transformation in the insurance industry
 author: []
