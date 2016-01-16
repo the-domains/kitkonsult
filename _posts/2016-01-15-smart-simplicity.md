@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Smart simplicity is about shifting power from rules, policies and metrics to real people. Empowering people to take responsibility by removing much of the rules and increase reciprocity by removing any unnecessary buffers that make business units self sufficient.'
-datePublished: '2016-01-16T11:32:06.156Z'
+datePublished: '2016-01-16T11:32:06.190Z'
 dateModified: '2016-01-16T11:20:29.388Z'
 title: Smart simplicity
 author: []
