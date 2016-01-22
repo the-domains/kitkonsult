@@ -1,29 +1,17 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: 'KIT Konsult - Aligning business & IT'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.25047
-title: 'KIT Konsult - Aligning business & IT'
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8125
   brandStrength: 0.75
@@ -35,7 +23,19 @@ color:
     - '#667D8F'
     - '#D8E1E8'
   lightness: 0.4375
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: kitkonsult
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.90703
+layout_spectrum: 0
